@@ -1,4 +1,4 @@
-# goit-markup-hw-05
-WebStudio CSS hw-05
- — form
- — modal window
+# goit-markup-hw-06
+WebStudio CSS hw-06
+ — adaptive design (Mobile First)
+
